@@ -21,31 +21,34 @@ You will need to setup a way to communicate with the front-end.
 Back-end is ran through Node.js with JS, front-end is using React with JS, styling is using React-bootstrap and CSS3. Front-end calls for APIs from LocationIQ.
 
 ## Change Log
+
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+
 ### Lab07 - Feature 1
 
 Name of feature: Weather
 
 Estimate of time needed to complete: 150 minutes
 
-Start time: _____
+Start time: 16:22
 
-Finish time: _____
+Finish time: 19:30
 
-Actual time needed to complete: _____
+Actual time needed to complete: 188 minutes
 
 ### Lab07 - Feature 2
+
 Name of feature: Error
 
 Estimate of time needed to complete: 60 minutes
 
-Start time: _____
+Start time: 22:00
 
-Finish time: _____
+Finish time: 22:56
 
-Actual time needed to complete: _____
+Actual time needed to complete: 56 minutes
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
