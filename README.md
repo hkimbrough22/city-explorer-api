@@ -6,7 +6,17 @@
 ## Overview
 City Explorer is a React application that queries the user(s) for a location (city), request an API from [LocationIQ](https://locationiq.com/), and then display that location through imagery/mapping. City Explorer also informs users of request errors. City Explorer API allows users to query three different cities, searches a local .JSON file for one of three cities and renders a weather forecast for them or an error if none of those cities were selected.
 
-![wrrc](./wrrc.png)
+### Day 1 WRRC
+
+![WRRC](./wrrc.png)
+
+### Day 2 WRRC
+
+![WRRC](./wrrc2.png)
+
+### Day 3 WRRC
+
+![WRRC](./wrrc3.png)
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
@@ -50,7 +60,32 @@ Finish time: 22:56
 
 Actual time needed to complete: 56 minutes
 
+### Lab08 - Feature 1
+
+Name of feature: Weather (live)
+
+Estimate of time needed to complete: 120 minutes
+
+Start time: 14:00
+
+Finish time: 16:26
+
+Actual time needed to complete: 146 minutes
+
+### Lab08 - Feature 2
+
+Name of feature: Movies
+
+Estimate of time needed to complete: 45 minutes
+
+Start time: 17:50
+
+Finish time: 21:29
+
+Actual time needed to complete: about 120 minutes
+
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 - [Christopher Burk](https://github.com/cburk2019) worked with me to create the WRRC
-- [Code Fellows Code 301 Class Repo](https://github.com/codefellows/seattle-code-301d77) for .gitignore
+- [Code Fellows Code 301 Class Repo](https://github.com/codefellows/seattle-code-301d77) for .gitignore.
+- TA Hexx King helped a ton with Lab 08 - Feature 1.
