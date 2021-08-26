@@ -1,6 +1,5 @@
 const express = require('express');
 const cors = require('cors');
-const weather = require('./data/weather.json');
 require('dotenv').config();
 const axios = require('axios');
 
