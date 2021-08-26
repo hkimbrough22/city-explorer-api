@@ -4,19 +4,24 @@
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
+
 City Explorer is a React application that queries the user(s) for a location (city), request an API from [LocationIQ](https://locationiq.com/), and then display that location through imagery/mapping. City Explorer also informs users of request errors. City Explorer API allows users to query three different cities, searches a local .JSON file for one of three cities and renders a weather forecast for them or an error if none of those cities were selected.
 
 ### Day 1 WRRC
 
-![WRRC](./wrrc.png)
+![WRRC](./img/wrrc.png)
 
 ### Day 2 WRRC
 
-![WRRC](./wrrc2.png)
+![WRRC](./img/wrrc2.png)
 
 ### Day 3 WRRC
 
-![WRRC](./wrrc3.png)
+![WRRC](./img/wrrc3.png)
+
+### Day 4 WRRC
+
+![WRRC](./img/wrrc4.png)
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
@@ -84,8 +89,37 @@ Finish time: 21:29
 
 Actual time needed to complete: about 120 minutes
 
+### Lab08 - Feature 3
+
+Name of feature: Publish
+
+Estimate of time needed to complete: 45 minutes
+
+Start time: 22:00
+
+Finish time: Next day, 10:00
+
+Actual time needed to complete: altogther about 180 minutes
+
+### Lab09 - Feature 1
+
+Name of feature: Refactor
+
+Estimate of time needed to complete: 45 minutes
+
+Start time: 13:47
+
+Finish time: 14:50
+
+Actual time needed to complete: 63 minutes
+
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
-- [Christopher Burk](https://github.com/cburk2019) worked with me to create the WRRC
+- Marco helped me create the WRRC for day 1.
+- [Christopher Burk](https://github.com/cburk2019) help me to create the WRRC for day 2.
+- [Patrick Laurion](https://github.com/plaurion1989) helped me create the WRRC for day 3.
+- [Joe Ivans](https://github.com/joeivans) helped me create the WRRC for day 4.
 - [Code Fellows Code 301 Class Repo](https://github.com/codefellows/seattle-code-301d77) for .gitignore.
-- TA Hexx King helped a ton with Lab 08 - Feature 1.
+- TAs [Chance Harmon](https://github.com/ChanceHarmon) and [Hexx King](https://github.com/HexxKing) helped a ton with Lab 08 - Feature 1.
+- Volunteered my code for code review on 26 August 2021 and we fixed my Lab 08 - Feature 3 functionality together.
+- Used this [response](https://stackoverflow.com/a/66580009) for figuring out the Date functionality of serverStatus.js.
