@@ -23,6 +23,10 @@ City Explorer is a React application that queries the user(s) for a location (ci
 
 ![WRRC](./img/wrrc4.png)
 
+### Day 5 WRRC
+
+![WRRC](./img/wrrc5.jpg)
+
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
 In order to build City Explorer API, you need to create a GitHub repository, clone it down to your local machine, run npm init in your terminal and npm install express, dotenv, and cors. This will set up the machine appropriately.
@@ -113,6 +117,18 @@ Finish time: 14:50
 
 Actual time needed to complete: 63 minutes
 
+### Lab10 - Feature 1
+
+Name of feature: Performance
+
+Estimate of time needed to complete: 180 minutes
+
+Start time: 18:23
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 - Marco helped me create the WRRC for day 1.
@@ -123,3 +139,4 @@ Actual time needed to complete: 63 minutes
 - TAs [Chance Harmon](https://github.com/ChanceHarmon) and [Hexx King](https://github.com/HexxKing) helped a ton with Lab 08 - Feature 1.
 - Volunteered my code for code review on 26 August 2021 and we fixed my Lab 08 - Feature 3 functionality together.
 - Used this [response](https://stackoverflow.com/a/66580009) for figuring out the Date functionality of serverStatus.js.
+- [Kason Braley](https://github.com/KasonBraley) helped me create the WRRC for day 5.
